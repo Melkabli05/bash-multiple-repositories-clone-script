@@ -83,7 +83,6 @@ menu
 sleep 5
 clone_repositories
 
-# the name of this project in github is "bash multiple repositories clone script"
 
 
 
